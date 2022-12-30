@@ -1,0 +1,13 @@
+{
+    "rules": {
+        "case-sensitive-variables": "error",
+        "keyword-capitalization": "error",
+        "set-nocount": "off",
+        "update-where" : "error",
+        "upper-lower": "error"
+    },
+    "compatibility-level": 120,
+    "plugins": {
+        "sample-plugin": "C:/Users/MAQ-USER/Downloads/tsqllint-plugin/tsqllint-plugin/tsqllint-plugin/bin/Debug/net6.0/tsqllint-plugin.dll"
+    }
+}
