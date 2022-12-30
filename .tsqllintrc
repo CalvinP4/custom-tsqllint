@@ -1,7 +1,7 @@
 {
     "rules": {
         "case-sensitive-variables": "error",
-        "keyword-capitalization": "error",
+        "keyword-capitalization": "warning",
         "set-nocount": "off",
         "update-where" : "error",
         "upper-lower": "error"
